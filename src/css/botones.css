@@ -1,0 +1,21 @@
+#contenedor-btn{
+    height: 100%;
+    width: 100%;
+    color: rgb(235, 235, 255);
+    font-size: 25px;
+    background-color: rgb(2, 2, 43);
+    cursor: pointer;
+    border-style: solid;
+    border-width: px;
+    
+    
+}
+
+#contenedor-btn:hover{
+    background-color: rgb(12, 12, 71);
+    color:aqua;
+}
+
+#contenedor-btn:active{
+    font-size: 20px;
+}
